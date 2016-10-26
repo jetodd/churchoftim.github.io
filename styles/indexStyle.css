@@ -1,0 +1,12 @@
+#timWelcome{
+  background-color: yellow;
+  width: auto;
+  text-align: center;
+}
+#timsPrayer{
+  width: auto;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -60px 0 0 -200px;
+}
